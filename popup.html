@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Configuración Lector Guiado</title>
+  <style>
+    body { width: 220px; font-family: sans-serif; text-align: center; }
+    input { width: 90%; }
+  </style>
+</head>
+<body>
+  <h3>Velocidad (PPM)</h3>
+  <!-- Cambiamos los valores min, max, value y step para que sean PPM reales -->
+  <input type="range" id="ppmSlider" min="100" max="600" value="220" step="10">
+  <p><span id="valorPPM">220</span> Palabras por Minuto</p>
+  
+  <script src="popup.js"></script>
+</body>
+</html>
