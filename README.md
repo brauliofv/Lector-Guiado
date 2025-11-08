@@ -1,4 +1,6 @@
-[Español](#-lector-guiado---extensión-de-chrome-para-lectura-asistida) | [English](#-lector-guiado---chrome-extension-for-guided-reading)
+![FocusRead Demo](./Lector-guiado.gif)
+
+[Español](#español) | [English](#-lector-guiado---chrome-extension-for-guided-reading)
 
 # Lector Guiado - Chrome Extension for Guided Reading
 
@@ -56,6 +58,10 @@ That's it! The Lector Guiado icon should now appear in your Chrome toolbar.
 
 ---
 ---
+
+<a name="español"></a>
+
+## 🇪🇸 Español
 
 # Lector Guiado - Extensión de Chrome para Lectura Asistida
 
